@@ -1,10 +1,22 @@
-- title: Getting Started
+- title: Inicio
   docs:
+  - inicio
+  - cronograma
+- title: Comienzo de cursos
+  docs:
+  - bienvenida
+  - whatsapp
+- title: Seguimiento
+  docs:
+  - excel
+- title: Editando la documentación (Inglés)
+  docs:
+  - editores
   - home
   - themes
   - customization
 
-- title: Examples
+- title: Ejemplos (Inglés)
   docs:
   - cheatsheet
   - font-awesome
