@@ -28,3 +28,5 @@ fields:
   name: description
   label: Descripción del documento
   description: opcional
+pages:
+- _docs/tutoriales/drive.md
