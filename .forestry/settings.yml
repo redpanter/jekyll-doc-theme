@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: _docs
-  label: Documentacion
+  label: Documentos
   create: all
   match: "**/*"
 - type: jekyll-posts
