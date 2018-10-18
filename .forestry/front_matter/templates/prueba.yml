@@ -1,0 +1,14 @@
+---
+label: prueba
+hide_body: false
+is_partial: true
+fields:
+- type: number
+  label: texto
+  name: texto
+- type: color
+  config:
+    color_format: RGB
+- type: boolean
+  name: visible
+  label: visible
