@@ -1,25 +1,28 @@
 ---
-label: Welcome to Jekyll!
-hide_body: 
-is_partial: 
+label: Post
+hide_body: false
+is_partial: false
 fields:
 - name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
+  label: Título del post
   type: text
   hidden: false
   default: ''
 - name: author
-  label: Author
+  label: Autor
   type: text
   hidden: false
   default: ''
+  description: "¿Quién escribió el post?"
 - name: date
   label: Date
   type: datetime
-  hidden: false
+  hidden: true
   default: ''
+  config:
+    display_utc: false
+- name: layout
+  label: Base (POST siempre)
+  type: text
+  hidden: true
+  default: post
