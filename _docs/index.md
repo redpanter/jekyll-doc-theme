@@ -1,9 +1,10 @@
 ---
 title: Welcome
-permalink: /docs/home/
-redirect_from: /docs/index.html
----
+permalink: "/docs/home/"
+redirect_from: "/docs/index.html"
+published: false
 
+---
 ## Getting started
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
