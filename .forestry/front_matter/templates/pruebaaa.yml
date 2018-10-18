@@ -1,0 +1,11 @@
+---
+label: pruebaaa
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: nombre
+  label: nombre
+- type: blocks
+  template_types:
+  - prueba
