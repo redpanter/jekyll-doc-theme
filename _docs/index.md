@@ -1,6 +1,7 @@
 ---
 title: Inicio
 permalink: /docs/inicio/
+redirect_from: "/docs/home"
 redirect_from: "/docs/index.html"
 
 ---
