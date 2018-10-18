@@ -39,22 +39,12 @@ Drive
 
 #### [Seguimiento](https://redpanter.github.io/jekyll-doc-theme/docs/welcome/#collapse-3)
 
-Usando Excel
+[Usando Excel](https://l0dtlsxdf-niww.preview.forestry.io/docs/excel/)
 
 #### [Editando la documentación (Inglés)](https://redpanter.github.io/jekyll-doc-theme/docs/welcome/#collapse-4)
 
-Editores de la documentación
-
-Welcome
-
-Themes
-
-Customization
+[Editores de la documentación](https://l0dtlsxdf-niww.preview.forestry.io/docs/editores/) - [Welcome](https://l0dtlsxdf-niww.preview.forestry.io/docs/welcome/) - [Themes](https://l0dtlsxdf-niww.preview.forestry.io/docs/themes/) - [Customization](https://l0dtlsxdf-niww.preview.forestry.io/docs/customization/)
 
 #### [Ejemplos (Inglés)](https://redpanter.github.io/jekyll-doc-theme/docs/welcome/#collapse-5)
 
-Markdown Cheatsheet
-
-Font Awesome Icon List
-
-Bootstrap Features
+[Markdown Cheatsheet](https://l0dtlsxdf-niww.preview.forestry.io/docs/cheatsheet/) - [Font Awesome Icon List](https://l0dtlsxdf-niww.preview.forestry.io/docs/font-awesome/) - [Bootstrap Features](https://l0dtlsxdf-niww.preview.forestry.io/docs/bootstrap/)
