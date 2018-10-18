@@ -1,7 +1,9 @@
+---
 - title: Inicio
   docs:
   - inicio
   - cronograma
+  - drive
 - title: Comienzo de cursos
   docs:
   - bienvenida
@@ -15,7 +17,6 @@
   - home
   - themes
   - customization
-
 - title: Ejemplos (Inglés)
   docs:
   - cheatsheet
