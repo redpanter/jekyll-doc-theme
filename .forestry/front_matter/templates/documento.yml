@@ -1,0 +1,30 @@
+---
+label: Documento
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Titulo del documento
+  name: title
+  description: se mostrará en el menú y sobre el documento
+  hidden: false
+  config:
+    required: true
+- type: select
+  name: category
+  config:
+    source:
+      type: simple
+    options:
+    - Categoria1
+    - Categoria2
+  label: Categoría
+  hidden: false
+- type: text
+  label: Link permanente
+  name: permalink
+  description: "(opcional) Link permanente que irá a este documento (ejemplo: /doc/como-cerrar-curso)"
+- type: textarea
+  name: description
+  label: Descripción del documento
+  description: opcional
