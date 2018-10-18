@@ -29,12 +29,6 @@ Anímense a participar.
 
 [Inicio](https://redpanter.github.io/jekyll-doc-theme/docs/inicio/) - [Cronograma](https://redpanter.github.io/jekyll-doc-theme/docs/cronograma/) - [Drive](https://redpanter.github.io/jekyll-doc-theme/docs/drive/)
 
-Inicio
-
-Cronograma
-
-Drive
-
 #### [Comienzo de cursos](https://redpanter.github.io/jekyll-doc-theme/docs/welcome/#collapse-2)
 
 [Bienvenida](https://redpanter.github.io/jekyll-doc-theme/docs/bienvenida/) - [Mensajes de Whatsapp](https://redpanter.github.io/jekyll-doc-theme/docs/whatsapp/)
