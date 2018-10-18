@@ -9,3 +9,5 @@ fields:
 - type: blocks
   template_types:
   - prueba
+pages:
+- _docs/prueba.md
