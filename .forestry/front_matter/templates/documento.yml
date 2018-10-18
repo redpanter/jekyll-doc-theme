@@ -23,7 +23,7 @@ fields:
 - type: text
   label: Link permanente
   name: permalink
-  description: "(opcional) Link permanente que irá a este documento (ejemplo: /doc/como-cerrar-curso)"
+  description: "(opcional) Link permanente que irá a este documento (ejemplo: /docs/como-cerrar-curso/)"
 - type: textarea
   name: description
   label: Descripción del documento
